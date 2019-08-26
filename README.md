@@ -1,2 +1,0 @@
-# GiphyBattlzz
-Created with CodeSandbox
